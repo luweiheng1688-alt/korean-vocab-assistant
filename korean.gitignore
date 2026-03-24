@@ -1,0 +1,10 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 虚拟环境 (如果你用了虚拟环境，比如 venv 或 conda)
+venv/
+.env
+
+# Mac 系统文件 (如果你用 Mac)
+.DS_Store
